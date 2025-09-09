@@ -1,17 +1,7 @@
 
 Desafio Técnico - Abrigo de Animais (StartDB-2025)
 
-Este repositório contém a minha solução para o desafio técnico "Abrigo de Animais", proposto no processo seletivo StartDB-2025. O projeto foi desenvolvido em JavaScript puro (ESModules) e utiliza Jest para a suíte de testes, seguindo rigorosamente as diretrizes e a estrutura de arquivos solicitadas.
-
-Estrutura do Projeto
-
-/
-├── src/
-│   ├── abrigo-animais.js        # Contém a implementação da classe AbrigoAnimais e a lógica central.
-│   └── abrigo-animais.test.js   # Suíte de testes completa para validação da solução.
-├── .gitignore
-├── package.json                 # Definições do projeto e dependências de desenvolvimento.
-└── README.md                    # Este arquivo.
+Este repositório contém a minha solução para o desafio técnico "Abrigo de Animais", proposto no processo seletivo StartDB-2025. O projeto foi desenvolvido em JavaScript puro (ESModules) e utiliza Jest para a suíte de testes.
 
 Instruções para Execução
 
@@ -30,7 +20,7 @@ Bash
 git clone <URL_DO_SEU_REPOSITORIO_NO_GITHUB>
 
 # Navegue até o diretório do projeto
-cd desafio-seuUsername-2025
+cd desafio-tavs-coelho-2025
 
 # Instale as dependências
 npm install
@@ -42,4 +32,4 @@ Bash
 
 npm test
 
-A saída esperada é a confirmação de que todos os 13 testes foram executados e passaram com sucesso, atestando a qualidade e a funcionalidade completa do código entregue.
+A saída é a confirmação de que todos os 13 testes foram executados e passaram com sucesso.
